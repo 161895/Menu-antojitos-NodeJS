@@ -1,0 +1,24 @@
+{
+  "name": "menu-antojitos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/161895/Menu-antojitos-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/161895/Menu-antojitos-NodeJS/issues"
+  },
+  "homepage": "https://github.com/161895/Menu-antojitos-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27",
+    "underscore": "^1.10.2"
+  }
+}

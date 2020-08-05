@@ -1,4 +1,4 @@
-const categoria = require('../models/categoria')
+// const categoria = require('../models/categoria')
 const express = require('express')
 const Categoria = require('../models/categoria');
 const _ = require('underscore')

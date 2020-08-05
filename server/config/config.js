@@ -11,7 +11,8 @@ if (process.env.NODE_ENV === 'dev') {
     urlDB = 'mongodb://localhost:27017/antojitos';
 }
 // } else {
-//     urlDB = 'mongodb+srv://admin:123@cluster0-aokp5.mongodb.net/cafeteria'
+//     urlDB = 'mongodb+srv://161895:*****@cluster0-jxhgp.mongodb.net/cafeteria' 
+
 // }
 
 process.env.URLDB = urlDB;
